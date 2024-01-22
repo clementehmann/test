@@ -1,7 +1,0 @@
-#image {
-    display: none;
-  }
-  
-  #bouton:hover + #image {
-    display: block;
-  }
